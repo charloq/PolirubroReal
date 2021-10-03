@@ -1,0 +1,15 @@
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\bin\Debug\PolirubroReal.exe.config
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\bin\Debug\PolirubroReal.exe
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\bin\Debug\PolirubroReal.pdb
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\bin\Debug\PolirubroReal.xml
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\obj\Debug\PolirubroReal.vbproj.AssemblyReference.cache
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\obj\Debug\PolirubroReal.Resources.resources
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\obj\Debug\PolirubroReal.Sistema.resources
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\obj\Debug\PolirubroReal.vbproj.GenerateResource.cache
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\obj\Debug\PolirubroReal.vbproj.CoreCompileInputs.cache
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\obj\Debug\PolirubroReal.exe
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\obj\Debug\PolirubroReal.xml
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\obj\Debug\PolirubroReal.pdb
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\bin\Debug\PolirubroRealDB.mdf
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\bin\Debug\PolirubroRealDB_log.ldf
+C:\Users\cquinteros\Documents\Facultad\Laboratorio III\PolirubroReal\PolirubroReal\obj\Debug\PolirubroReal.frmCargarCliente.resources
